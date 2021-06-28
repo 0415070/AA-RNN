@@ -15,6 +15,11 @@ This is an example of how to list things you need to use the software and how to
 - Tensorflow 2.1.1
 - Nvidia GPU 
 ### Datasets
+Datasets are located in the data folder:
+
+credit-card-sales-covid-19.csv
+electricity.csv
+tax-sales-hurricane.csv
 
 ### Installation
 
